@@ -1,6 +1,6 @@
 # Getting Started 
 
-[Edit src/App.js and save to reload.](src/pages/App.js)
+[Edit src/App.js and save to reload.](src/App.js)
 
 ## Available Scripts
 
