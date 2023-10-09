@@ -11,7 +11,8 @@ function App() {
 
           edit made from the website from a computer
 
-        
+        this edit has already been done from the phone
+
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
