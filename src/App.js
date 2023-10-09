@@ -9,6 +9,8 @@ function App() {
         <p>
           Welcome to Mykyta Fun
 
+          edit made from the website from a computer
+
         
           Edit <code>src/App.js</code> and save to reload.
         </p>
