@@ -9,10 +9,7 @@ function App() {
         <p>
           Welcome to Mykyta Fun
 
-          now we are testing webhooks
-
-          attempt number 2
-
+        
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
