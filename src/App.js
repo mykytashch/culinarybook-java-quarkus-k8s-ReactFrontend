@@ -9,6 +9,9 @@ function App() {
         <p>
           Welcome to Mykyta Fun
 
+
+          суббота 14 октября
+
           edit made from the website from a computer
 
         this edit has already been done from the phone
