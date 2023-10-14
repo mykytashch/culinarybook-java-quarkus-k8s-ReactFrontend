@@ -50,3 +50,14 @@ webpack compiled successfully
 Compiling...
 Compiled successfully!
 webpack compiled successfully
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  10/14/2023 2:48:27 AM 127.0.0.1 GET /
+ HTTP  10/14/2023 2:48:27 AM 127.0.0.1 Returned 404 in 37 ms
+ HTTP  10/14/2023 2:48:28 AM 127.0.0.1 GET /favicon.ico
+ HTTP  10/14/2023 2:48:28 AM 127.0.0.1 Returned 404 in 2 ms
+ HTTP  10/14/2023 2:48:33 AM 127.0.0.1 GET /
+ HTTP  10/14/2023 2:48:33 AM 127.0.0.1 Returned 404 in 1 ms
+ HTTP  10/14/2023 2:48:34 AM 127.0.0.1 GET /
+ HTTP  10/14/2023 2:48:34 AM 127.0.0.1 Returned 404 in 1 ms
+
+ INFO  Gracefully shutting down. Please wait...
