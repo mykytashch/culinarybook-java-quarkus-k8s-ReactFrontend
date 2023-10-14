@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Welcome to Mykyta Fun
+14 октября
+
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
