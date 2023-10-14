@@ -1,15 +1,15 @@
 [
     {
         "id": "react-auto-deploy",
-        "execute-command": "/var/www/mykyta.fun/deploy-react.sh",  // Путь к скрипту для обновления React
-        "command-working-directory": "/var/www/mykyta.fun",  // Директория вашего React-приложения
+        "execute-command": "/var/www/mykyta.fun/deploy-react.sh",
+        "command-working-directory": "/var/www/mykyta.fun",
         "response-message": "React app updated successfully",
         "trigger-rule": {
             "and": [
                 {
                     "match": {
                         "type": "payload-hash-sha1",
-                        "secret": "your-react-secret"  // Ваш секрет для безопасности
+                        "secret": "your-react-secret"
                     }
                 },
                 {

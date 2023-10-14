@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /root/culinarybook-java-quarkus-k8s-ReactFrontend
+cd /var/www/mykyta.fun
 git pull
 npm install
-pm2 restart culinarybook  # замените "culinarybook" на имя вашего приложения в pm2
+npm run build  # Здесь выполняется сборка React-приложения
